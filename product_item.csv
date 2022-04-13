@@ -1,0 +1,2 @@
+﻿Name,Brand__c,Product_Sub_Category__c,MRP__c,Discount__c,Our_Price__c,Max_Allowed_Quantity_Per_Order__c,Stock_Remaining__c,IsActive__c,Image_URL__c
+Oreo,Cadbury,a015j00000HyqGkAAJ,100,10,90,20,,TRUE,https://raw.githubusercontent.com/Groket-Project-LWC/groket-resources/main/product/
