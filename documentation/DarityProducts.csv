@@ -1,0 +1,5 @@
+"Name,Brand__c,Product_Sub_Category__c,MRP__c,Discount__c,Stock_Remaining__c,IsActive__c,Image_URL__c"
+"Nandini good life milk (200 ml),Nandini,a015j00000HyqGGAAZ,11,0,50,true,https://raw.githubusercontent.com/Groket-Project-LWC/groket-resources/main/product/Nandini200ml.jpg"
+"Amul Taaza Fresh Toned Milk (500 ml),Amul,a015j00000HyqGGAAZ,35,0,45,true,https://raw.githubusercontent.com/Groket-Project-LWC/groket-resources/main/product/Amul500ml.jpg"
+"Nandini good life milk (1 Ltr),Nandini,a015j00000HyqGGAAZ,56,0,40,true,https://raw.githubusercontent.com/Groket-Project-LWC/groket-resources/main/product/Nandini1Ltr.jpg"
+"Amul Taaza Homogenised Toned Milk (1 Ltr),Amul,a015j00000HyqGGAAZ,68,0,40,true,https://raw.githubusercontent.com/Groket-Project-LWC/groket-resources/main/product/Amul1Ltr.jpg"
